@@ -8,5 +8,5 @@ TODO for Liam Paull: Describe the flagship project
 
 ## Duckietown High School
 
-See the book: [](#dhs).
+See the book: [](+duckietown_high_school#dhs).
 
