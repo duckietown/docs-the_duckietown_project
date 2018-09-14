@@ -72,7 +72,7 @@ In 2017, these four courses were taught together, with the students interacting 
 
 Furthermore, the Duckietown platform was used also in the following universities:
 
-- [Rennselaer Polytechnic Institute - (Jeff Trinkle)](http://www.cs.rpi.edu/~trink/Courses/AlgorithmicRobotics/) *Algorithmic Robotics* course;
+- [Rennselaer Polytechnic Institute](http://www.cs.rpi.edu/~trink/Courses/AlgorithmicRobotics/) - Prof. Jeff Trinkle's *Algorithmic Robotics* course;
 - National Chiao Tung University, Taiwan - [Prof. Yon-Ping Chen's](https://people.cs.nctu.edu.tw/~ypchen/) *Dynamic system simulation and implementation* course;
 - Chosun University, Korea - Prof. Woosuk Sung's course;
 - [Petra Christian University, Indonesia](http://www.petra.ac.id/) - Prof. Resmana Lim's *Mobile Robot Design* course;
