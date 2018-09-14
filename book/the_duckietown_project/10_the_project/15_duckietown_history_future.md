@@ -111,11 +111,6 @@ This section reports some aggregated statistics of the courses at graduate and u
    <figcaption>Number of students and staff for the Duckietown graduate level class </figcaption>
 </div>
 
-<div figure-id="fig:stats-duckiebots">
-   <img src="Duckiebots-fleet-size-2017.png" class='group-photo'/>
-   <figcaption>Duckiebot approximate cost and fleet size for graduate level classes</figcaption>
-</div>
-
 <div figure-id="fig:stats-alumni-university">
    <img src="Duckietown-alumni-university-2017.png" class='group-photo'/>
    <figcaption>Number of reported students and staff for graduate and undergraduate classes using the Duckietown platform. These figures do not include [Duckietown HS](#dt-hs) alumni (200 up to 2017)</figcaption>
