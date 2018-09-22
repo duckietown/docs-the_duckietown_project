@@ -24,7 +24,7 @@ The website `www.duckietown.org` contains the world-wide forums
 
 The forums are available at the URL:
 
-[`www.duckietown.org/forums/`](http://www2.duckietown.org/forums/)
+[`www.duckietown.org/forums/`](https://www.duckietown.org/forums/)
 
 The forums available include:
 
@@ -35,7 +35,7 @@ The forums available include:
 
 Q-and-A archive is available at:
 
-[`www.duckietown.org/questions/`](http://www2.duckietown.org/questions/)
+[`www.duckietown.org/questions/`](https://www.duckietown.org/questions/)
 
 These are integrated within the Duckuments.
 
@@ -51,7 +51,7 @@ Each community typically has:
 
 **The list of communities** is available at:
 
-[`www.duckietown.org/communities/`](http://www2.duckietown.org/communities/)
+[`www.duckietown.org/communities/`](https://www.duckietown.org/communities/)
 
 ### The community managers
 
