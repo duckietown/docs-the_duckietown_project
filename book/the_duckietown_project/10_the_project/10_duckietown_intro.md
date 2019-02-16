@@ -6,8 +6,31 @@ It started at MIT in 2016 and now includes hundreds of people around the world.
 
 ## Mission
 
-TODO for Andrea Censi, Liam Paull, Kirsten Bowser: add mission here
+Our mission is to make the world excited about the **beauty**, the **fun**, the **importance**, and the **challenges** of robotics and AI, through learning experiences that are **tangible**, **accessible**, and **inclusive**.
 
+We achieve this mission by designing freely-available robotics platforms and curricula for all levels of education, and promoting its use in the world.
+
+**The beauty and the fun**
+AI and robotics are the most beautiful disciplines – it’s mankind’s attempt at creating artificial creatures that think and act like us.
+
+And it’s fun, seeing robots go!
+
+**The importance and the challenges**
+AI and robotics will change our world. Everybody should understand the possibilities, the current status,  and how much is left to do.
+
+**Experiences**
+While most of our activity results in the development of a hardware and software platform, the platform is only a means to an end: we care about the experience that is enabled by the platform.
+
+**Tangible**
+We believe that to learn robotics  you have to be able to touch one. You learn by touching and doing.
+
+We try to join the maker spirit with the academic spirit: the experiences are fun, but there is also a path towards more academic learning.
+
+**Accessible**
+We strive to design a hardware/software platform that is inexpensive and easily reproducible.
+
+**Inclusive**
+We wish to promote the broad understanding of the effects of AI/robotics in society and we want to reach previously underserved demographics.
 
 ## Goals and objectives
 
