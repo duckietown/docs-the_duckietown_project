@@ -1,3 +1,3 @@
 # Duckietown {#book:duckietown-experience status=ready}
 
-Maintainer: Andrea Censi, Liam Paull
+Welcome to the Duckietown project documentation, also known as the "Duckiebook" or "Duckiedocs".
