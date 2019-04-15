@@ -1,1 +1,1 @@
-# General info  {#part:general-info status=beta}
+# General info  {#part:general-info status=ready}

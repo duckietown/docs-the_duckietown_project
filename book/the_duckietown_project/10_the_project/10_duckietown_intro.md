@@ -1,4 +1,4 @@
-# The Duckietown project {#duckietown-project status=beta}
+# The Duckietown project {#duckietown-project status=ready}
 
 Duckietown is a robotics education and outreach effort.
 

@@ -1,4 +1,4 @@
-# Duckietown history and future {#duckietown-history-and-future status=beta}
+# Duckietown history and future {#duckietown-history-and-future status=ready}
 
 ## The beginnings of Duckietown
 
@@ -94,9 +94,6 @@ Furthermore, the Duckietown platform was used also in the following universities
    <figcaption>Duckietown at TTIC in 2017</figcaption>
 </div>
 -->
-TODO for Liam Paull: add picture of 2017 UdM class
-
-TODO for Andrea Daniele: add picture of 2017 TTIC class
 
 ## 2018 and beyond
 
