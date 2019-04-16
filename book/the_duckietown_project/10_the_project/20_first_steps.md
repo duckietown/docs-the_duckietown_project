@@ -1,5 +1,13 @@
-# Join us {#first-steps status=draft}
+# Join us {#first-steps status=ready}
 
+The are many exciting opportunities in Duckietown.
+
+* We are [looking for volunteers](https://www.duckietown.org/about/open-volunteer-positions) to cover a number of technical as well as non technical positions.
+
+
+
+
+<!--
 Choose what best describes you:
 
 - [graduate-level instructor](#for-instructors) or
@@ -30,10 +38,6 @@ TODO for Liam Paull: to write
 
 TODO for Liam Paull: to write
 
-If you want to contribute to the software... XXX
-
-If you want to contribute to the hardware... XXX
-
 ## Translators
 
 TODO for Liam Paull: to write
@@ -45,3 +49,4 @@ TODO for Kirsten Bowser: to write
 ## Just interested in spreading the word
 
 TODO for Kirsten Bowser: to write this part. Facebook? mailing list?
+-->
