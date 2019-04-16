@@ -10,8 +10,6 @@ The original Duckietown class was at MIT in 2016 ([](#MIT-class)).
     <figcaption>Part of the first MIT class, during the final demo.</figcaption>
 </div>
 
-TODO for Liam Paull, Andrea Censi: provide better description.
-
 Duckietown was built by elves ([](#elves)).
 
 <div figure-id="fig:elves">
@@ -38,9 +36,7 @@ These are some advertisement videos we used.
 
 
 
-## University-level classes in 2016 {status=beta}
-
-TODO for Kirsten Bowser: if we use Wordpress for these statistics, link them here.
+## University-level classes in 2016 {status=ready}
 
 Later that year, the Duckietown platform was also used in these classes:
 
@@ -60,8 +56,6 @@ Later that year, the Duckietown platform was also used in these classes:
 </style>
 
 ## University-level classes in 2017
-
-TODO for Kirsten Bowser: if we use Wordpress for these statistics, link them here.
 
 In 2017, these four courses were taught together, with the students interacting among institutions:
 
