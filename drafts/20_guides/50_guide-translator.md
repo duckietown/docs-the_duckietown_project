@@ -1,4 +1,4 @@
-# Guide for translators  {status=draft}
+# Guide for translators  {status=beta}
 
 We are currently working to put in place the translator effort.
 
