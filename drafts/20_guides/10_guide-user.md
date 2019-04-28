@@ -1,4 +1,4 @@
-# Guide for the Duckietown member {#user-guide status=draft}
+# Guide for the Duckietown member {#user-guide status=beta}
 
 
 
@@ -18,7 +18,7 @@ The following is considered public information:
 6. [optional] Website url: you can use this link for your home page.
 7. [optional] Picture. You may choose to use one profile picture. Please provide a picture containing your face - not abstract/cartoon pictures.
 
-Furthermore, the belongingness to one of the groups is public (see "groups" later).
+Furthermore, the belonging to one of the groups is public (see "groups" later).
 
 ### Privacy controls
 
