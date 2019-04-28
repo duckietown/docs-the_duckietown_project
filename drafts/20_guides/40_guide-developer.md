@@ -1,5 +1,5 @@
-# Guide for the Duckietown developers   {status=draft}
+# Guide for the Duckietown developers   {status=beta}
 
 
 
-TODO: 
+TODO:

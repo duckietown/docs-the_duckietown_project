@@ -1,4 +1,4 @@
-# The Duckietown website {status=draft}
+# The Duckietown website {status=beta}
 
 ## User accounts
 

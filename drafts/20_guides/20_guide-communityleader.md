@@ -23,4 +23,4 @@ Ask one of the admins.
 
 ### Getting help
 
-We have a community leader community :-), available at: `community-leader.duckietown.org`.
+We have a community leader community available at: `community-leader.duckietown.org`.

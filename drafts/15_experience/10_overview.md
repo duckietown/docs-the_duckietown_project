@@ -1,4 +1,4 @@
-# The Duckietown Experience at a glance {#dtexp-overview status=beta}
+# The Duckietown Experience at a glance {#dtexp-overview status=ready}
 
 ## The main websites
 
@@ -95,7 +95,7 @@ Duckietown video content is hosted on our [Vimeo](https://vimeo.com/duckietown) 
 
 ## Developer groups {status=beta}
 
-TODO for Andrea Censi: finish this
+TODO: for Andrea Censi
 
 - HW Platform
 - Simulators
